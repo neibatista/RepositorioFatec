@@ -2,6 +2,10 @@ package br.sceweb.teste;
 
 import static org.junit.Assert.*;
 
+/* 
+ * Verificar o comportamento do sistema no cadastro de empresa
+ */
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
